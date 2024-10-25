@@ -1,0 +1,10 @@
+{
+    "nome": "Yuri",
+    "idade": 45,
+    "cidade": "Santana de Parnaiba",
+    "habilidades": [
+        "Python",
+        "SQL",
+        "Elasticsearch"
+    ]
+}
