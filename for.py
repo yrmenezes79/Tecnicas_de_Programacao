@@ -1,3 +1,3 @@
-frutas = ["apple", "samsung", "apple"]
-for item in frutas:
+celulares = ["apple", "samsung", "nokia"]
+for item in celulares:
     print(item)
