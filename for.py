@@ -1,3 +1,3 @@
 frutas = ["apple", "samsung", "apple"]
-for fruta in frutas:
-    print(fruta)
+for item in frutas:
+    print(item)
